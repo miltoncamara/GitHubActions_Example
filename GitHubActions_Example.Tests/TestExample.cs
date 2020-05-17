@@ -7,7 +7,7 @@ namespace GitHubActions_Example.Tests
         [Fact]
         public void Test_True()
         {
-            Assert.True(1 == 1);
+            Assert.True(1 == 10);
         }
     }
 }
