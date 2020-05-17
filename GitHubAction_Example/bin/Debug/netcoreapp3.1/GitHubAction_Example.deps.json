@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GitHubAction_Example/1.0.0": {
+        "runtime": {
+          "GitHubAction_Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHubAction_Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

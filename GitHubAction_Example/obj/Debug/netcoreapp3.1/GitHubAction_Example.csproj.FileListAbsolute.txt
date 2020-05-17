@@ -1,0 +1,12 @@
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\bin\Debug\netcoreapp3.1\GitHubAction_Example.exe
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\bin\Debug\netcoreapp3.1\GitHubAction_Example.deps.json
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\bin\Debug\netcoreapp3.1\GitHubAction_Example.runtimeconfig.json
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\bin\Debug\netcoreapp3.1\GitHubAction_Example.runtimeconfig.dev.json
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\bin\Debug\netcoreapp3.1\GitHubAction_Example.dll
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\bin\Debug\netcoreapp3.1\GitHubAction_Example.pdb
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\obj\Debug\netcoreapp3.1\GitHubAction_Example.csprojAssemblyReference.cache
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\obj\Debug\netcoreapp3.1\GitHubAction_Example.AssemblyInfoInputs.cache
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\obj\Debug\netcoreapp3.1\GitHubAction_Example.AssemblyInfo.cs
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\obj\Debug\netcoreapp3.1\GitHubAction_Example.dll
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\obj\Debug\netcoreapp3.1\GitHubAction_Example.pdb
+C:\Users\Milton\source\repos\GitHubAction_Example\GitHubAction_Example\obj\Debug\netcoreapp3.1\GitHubAction_Example.genruntimeconfig.cache
